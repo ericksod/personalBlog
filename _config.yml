@@ -1,11 +1,11 @@
 # Site settings
 title: Chloe's SUPER Blog
-email: sillyemail.net
+email: thisischloesemail.net
 description: > # this means to ignore newlines until "baseurl:"
   A short description of Chloe's site.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: usernametwitter
 github_username:  ericksod
 
 # Build settings
